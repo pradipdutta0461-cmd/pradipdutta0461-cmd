@@ -1,16 +1,4 @@
-## Hi there 👋
-
-<!--
-**pradipdutta0461-cmd/pradipdutta0461-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on<br>Building AI/ML and Python projects while strengthening my problem-solving and development skills.<br>🤝 I’m looking to collaborate on<br>AI/ML, Python, student-led tech projects, hackathons, and innovative ideas that solve real-world problems.<br>🧑‍💻 I’m looking for help with<br>Improving my project-building skills, learning industry best practices, and getting guidance on AI/ML development.<br>🌱 I’m currently learning<br>Python, Artificial Intelligence & Machine Learning, and practical software development.<br>💬 Ask me about<br>AI/ML, Python, student tech projects, hackathons, and my journey as a CSE-AIML student.<br>⚡ Fun fact<br>I enjoy turning ideas into projects and actively look for opportunities to learn, build, and collaborate.
 
 
@@ -28,6 +16,3 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=pradipdutta0461-cmd&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
